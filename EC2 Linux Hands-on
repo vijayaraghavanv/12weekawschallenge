@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T17:16:56.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="g23uAcmgquxTOD8Z-mg2" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T17:20:30.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d_8dk5oKoH7grsmCs0YT" version="22.0.4" type="github">
   <diagram name="Page-1" id="63o2qpQix7Z7nCX4iCWF">
     <mxGraphModel dx="1050" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
         <mxCell id="ebINQDtKbxB_dVYOlD-h-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="193" width="50" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="ebINQDtKbxB_dVYOlD-h-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#a20025;strokeColor=#6F0000;rounded=0;jumpStyle=arc;jumpSize=8;" edge="1" parent="1" source="ebINQDtKbxB_dVYOlD-h-2" target="ebINQDtKbxB_dVYOlD-h-15">
+        <mxCell id="ebINQDtKbxB_dVYOlD-h-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#a20025;strokeColor=#6F0000;rounded=0;jumpStyle=arc;jumpSize=6;" edge="1" parent="1" source="ebINQDtKbxB_dVYOlD-h-2" target="ebINQDtKbxB_dVYOlD-h-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="403" y="423" />
@@ -44,13 +44,10 @@
         <mxCell id="ebINQDtKbxB_dVYOlD-h-14" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="ebINQDtKbxB_dVYOlD-h-6">
           <mxGeometry x="280.5" y="85" width="104.5" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="ebINQDtKbxB_dVYOlD-h-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ebINQDtKbxB_dVYOlD-h-6" source="ebINQDtKbxB_dVYOlD-h-15" target="ebINQDtKbxB_dVYOlD-h-8">
+        <mxCell id="ebINQDtKbxB_dVYOlD-h-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;flowAnimation=1;" edge="1" parent="ebINQDtKbxB_dVYOlD-h-6" source="ebINQDtKbxB_dVYOlD-h-15" target="ebINQDtKbxB_dVYOlD-h-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ebINQDtKbxB_dVYOlD-h-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ebINQDtKbxB_dVYOlD-h-6" source="ebINQDtKbxB_dVYOlD-h-15" target="ebINQDtKbxB_dVYOlD-h-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ebINQDtKbxB_dVYOlD-h-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ebINQDtKbxB_dVYOlD-h-6" source="ebINQDtKbxB_dVYOlD-h-15">
+        <mxCell id="ebINQDtKbxB_dVYOlD-h-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;flowAnimation=1;" edge="1" parent="ebINQDtKbxB_dVYOlD-h-6" source="ebINQDtKbxB_dVYOlD-h-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="276" y="123" as="targetPoint" />
           </mxGeometry>
